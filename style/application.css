@@ -54,6 +54,7 @@ p {
 
 .btn-branding-project {
   color: var(--branding-color);
+  margin-left: 20px;
   font-size: 18px;
   padding: 15px 30px;
   border-color: var(--branding-color);
@@ -95,4 +96,16 @@ p {
 #picofme {
   transform: scale(0.7);
   border-radius: 6px;
+}
+
+.logo {
+  max-width: 150px;
+}
+
+.active {
+  color: var(--branding-color) !important;
+}
+
+.nav-item {
+  padding: 0 20px;
 }
