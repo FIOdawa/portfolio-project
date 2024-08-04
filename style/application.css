@@ -109,10 +109,6 @@ p {
   border-radius: 6px;
 }
 
-.logo {
-  max-width: 150px;
-}
-
 .active {
   color: var(--branding-color) !important;
 }
